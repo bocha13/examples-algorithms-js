@@ -7,3 +7,6 @@
 * Anagrama
 * Contador
 * Multiples-Punteros
+* Contador de Valores Unicos
+* Ventanas
+* Dividir y Conquistar
